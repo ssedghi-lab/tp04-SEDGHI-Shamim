@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { BehaviorSubject } from 'rxjs';
-import { CardService } from '../../card.service'; // Assure-toi que le chemin est correct
+import { CardService } from '../../card.service'; 
 import { CommonModule } from '@angular/common';
 @Component({
   selector: 'app-signal',
